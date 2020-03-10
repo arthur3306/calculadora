@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.painel{
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+
+}
+
+input{
+    margin-left: 1px;
+    margin-bottom: 3px;
+
+    width: 25px;
+
+}
+
+.result{
+    width: 86px;
+}
